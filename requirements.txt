@@ -1,0 +1,10 @@
+pandas
+numpy
+scipy
+matplotlib
+seaborn
+plotly
+openpyxl # For reading/writing Excel files with pandas
+# simpy # Uncomment if discrete-event simulation is chosen
+# jupyterlab # For notebooks
+# scikit-learn # For any machine learning models if needed
